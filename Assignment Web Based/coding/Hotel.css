@@ -1,0 +1,89 @@
+.Main {
+    width: 100%;
+    position: absolute;
+    background: rgb(244, 244, 244)5);
+
+}
+
+header{
+    text-align: center;
+
+}
+
+.Rectangle {
+    width: 1440px;
+    height: 175px;
+    top: 200px;
+    position: relative;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.LogMasuk {
+    background-color: aqua;
+    width: 180px;
+    text-align: center;
+    
+}
+.Hotelgo {
+    left: 83px;
+    top: 59px;
+    position: absolute;
+    color: black;
+    font-size: 40px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.Footer {
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+    color: black;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+    background: #e07474;
+    text-align: center;
+}
+
+.Rectangle29 {
+    width: 1440px;
+    height: 703px;
+    top: 146px;
+    position: absolute;
+    background: #b0a4a4;
+   margin: 0;
+}
+
+.Rectangle29 img{
+    width: 100%;
+    object-fit: cover;
+    margin: 0;
+}
+
+.Frame1 {
+    width: 100%;
+    position: absolute;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 35px;
+    display: inline-flex;
+    justify-content: right;
+    top: 0;
+    right: 20px;
+}
+
+.Frame1 a{
+    font-size: 20px;
+}
+.Home, .Facility, .Register, .Login {
+    color: black;
+    font-size: 40px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
